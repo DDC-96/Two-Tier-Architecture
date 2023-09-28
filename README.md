@@ -3,15 +3,15 @@ Two-Tier-Architecture
 
 - Description 
 
-*Create a custom VPC with 2 public and 2 private subnets
+- Create a custom VPC with 2 public and 2 private subnets
 
-*Create and configure the appropriate route tables
+- Create and configure the appropriate route tables
 
-*Launch an EC2 instance in each public subnet
+- Launch an EC2 instance in each public subnet
 
-*Launch one RDS instance in a public subnet
+- Launch one RDS instance in a public subnet
 
-*Create and configure security groups for resources
+- Create and configure security groups for resources
 
-*Use a CI/CD (Jenkins) tool for build
+- Use a CI/CD (Jenkins) tool for build
 
