@@ -1,8 +1,6 @@
 # Two-Tier-Architecture
 Two-Tier-Architecture
 
-- Description 
-
 - Create a custom VPC with 2 public and 2 private subnets
 
 - Create and configure the appropriate route tables
