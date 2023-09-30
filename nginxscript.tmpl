@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Install Nginx On Amazon Linux 2
+sudo yum update -y
+sudo amazon-linux-extras install nginx1 -y
+sudo systemctl start nginx 
+sudo systemctl enable nginx 
+sudo systemctl statis nginx 
+
+# Install mariadb 
+sudo yum install mariadb -y
+sudo yum update -y
+
+# Install mysql client 
+sudo yum install mysql 
