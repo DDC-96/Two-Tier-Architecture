@@ -8,5 +8,5 @@
 
 - Launch one RDS relational database instance in a public subnet
 
-- Create and configure security groups for resources
+- Create and configure security groups for resources 
 
